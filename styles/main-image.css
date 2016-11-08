@@ -1,0 +1,102 @@
+.main-image {
+  display: inline-block;
+  background: url(../images/home.jpg) no-repeat center;
+  background-size: cover;
+  width: 100%;
+  height: 500px;
+  margin-top: 0px;
+}
+
+.main-image h1 {
+  letter-spacing: 3px;
+  position: relative;
+  top: 190px;
+  width: 100%;
+  max-width: 650px;
+  color: #fff;
+  font-size: 33px;
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: 300;
+}
+
+/*added*/
+
+.secondary-main-image {
+  display: inline-block;
+  width: 100%;
+  height: 365px;
+  margin-top: 0px;
+}
+
+#story-img {
+  background: url(../images/volcano.jpg) no-repeat center;
+  background-size: cover;
+}
+
+#team-img {
+  background: url(../images/sunrise.jpg) no-repeat center;
+  background-size: cover;
+}
+
+#technology-img {
+  background: url(../images/land.jpg) no-repeat center;
+  background-size: cover;
+}
+
+#blog-img {
+  background: url(../images/mountain.jpg) no-repeat center;
+  background-size: cover;
+}
+
+#join-img {
+  background: url(../images/shadow.jpg) no-repeat center;
+  background-size: cover;
+}
+
+.secondary-main-image h1 {
+  letter-spacing: 3px;
+  position: relative;
+  top: 120px;
+  width: 100%;
+    max-width: 650px;
+  color: #fff;
+  font-size: 33px;
+  max-width: 1000px;
+  font-weight: 300;
+    margin-left: auto;
+  margin-right: auto;
+}
+
+.secondary-main-image h2 {
+  margin: 20px;
+  font-size: 15px;
+  letter-spacing: 1px;
+  font-weight: 300;
+}
+
+.secondary-main-image h2 a {
+color: #2B88F0;
+  text-decoration: none;
+  font-weight: 400;
+}
+
+.secondary-caption {
+  position: relative;
+  top: 90px;
+  color: #fff;
+  line-height: 25px;
+  max-width: 650px;
+    margin-left: auto;
+  margin-right: auto;
+}
+
+.social-media-bar {
+  width: 100%;
+    display: inline-block;
+}
+
+.fb-container {
+  width: 53px;
+  display:inline-block;
+}
